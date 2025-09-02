@@ -1,7 +1,7 @@
-
+ 
                  
-                 V   Y   O   M   M   E   D   H   A    S   o   C
-                  ---------------------------------------------
+                 V   Y   O   M   M   E   D   H   A     S   o   C
+                  ----------------------------------------------
 
                  Vyommedha SoC — An Open-Source FPGA CPU Initiative
 
