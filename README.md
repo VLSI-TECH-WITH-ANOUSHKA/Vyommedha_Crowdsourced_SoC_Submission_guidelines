@@ -8,12 +8,61 @@
 
 
 
-# 🌌 Vyommedha SoC
 
-Vyommedha SoC is a community-driven initiative to design, build, and deploy **System-on-Chip (SoC)** on FPGA boards using the **LiteX framework** and **VexRiscv CPU**.
-Our first hardware platform is the **DE0-Nano FPGA**, where we have successfully deployed a basic SoC and tested firmware with the **Knight Rider LED pattern** 🚦.
+# 🌌 Vyommedha — Community Crowdsourced Single Board Computer
+
+**Vyommedha** is a community-driven initiative to design and build an **open-source single board computer (SBC)** from the ground up, powered by RISC-V.
+It is being developed in **four progressive phases**, each adding new capabilities while enabling contributors to learn FPGA, SoC design, verification, and system software.
 
 ---
+
+## 🚀 Project Phases
+
+### **Phase 1 — Minimal SoC (FE310-class)**
+
+* Bring up a **very simple RISC-V SoC** inspired by FE310-class designs.
+* Integrate **basic peripherals**: GPIO, UART, Timer.
+* Boot bare-metal samples (e.g. Knight Rider LED, UART “Hello World”).
+* Automate **CI pipelines** for lint, simulation, and synthesis checks.
+
+✅ *Status: In progress — first SoC tested on DE0-Nano FPGA with LED patterns.*
+
+---
+
+### **Phase 2 — Single Board Computer**
+
+* Scale the SoC into a **usable SBC** with expanded memory map and interconnect.
+* Add **more I/O** interfaces and community-requested peripherals.
+* Boot richer **firmware or lightweight RTOS**.
+* Improve **documentation and developer experience**.
+* Launch the **Vyommedha Peripheral Competition** — community contributes peripherals that integrate into the main SoC.
+
+---
+
+### **Phase 3 — Our Own Processor**
+
+* Design a **custom RISC-V core variant** to gain experience with toolchains and micro-architecture.
+* Explore **pipeline depth, ISA extensions, and verification flows**.
+* Optimize for **performance and co-design with peripherals** for real workloads.
+
+---
+
+### **Phase 4 — Integrate Bharat’s Own Processor**
+
+* Finalize integration with **Bharat’s own processor (Shakti-class)**.
+* Ensure end-to-end **stability in toolflows, testing, and production**.
+* Release a **production SBC revision**.
+* Publish open **documentation, tutorials, and education kits** to make this accessible to students, hobbyists, and professionals.
+
+---
+
+## 🌍 Vision
+
+Vyommedha is not just a SoC project.
+It is a **movement to build India’s own open hardware ecosystem**, where the **community collaborates** to design, verify, and scale silicon designs, peripherals, and system software.
+
+---
+
 
 ## 📂 Repository Contents
 
