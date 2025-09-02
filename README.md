@@ -125,8 +125,8 @@ We deeply thank our **mentors, contributors, and community members** who support
 
 ## 🌍 Learn More
 
-👉 Visit our website: [**Vyommedha Official Website**](https://vyommedha.org)
-👉 Follow updates on [LinkedIn](https://linkedin.com)
+👉 Visit our website: [**Vyommedha Official Website**](aryavartsemi.com)
+👉 Follow updates on [LinkedIn](https://www.linkedin.com/company/silliconaryavart/?viewAsMember=true)
 
 ---
 
@@ -144,4 +144,3 @@ Together, let’s build **India’s open-source hardware ecosystem** 🇮🇳✨
 
 ---
 
-Would you like me to also include a **ready-made template peripheral** (like a GPIO example) in the repo so new contributors can just copy-paste and modify?
