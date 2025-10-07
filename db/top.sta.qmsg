@@ -1,1 +1,0 @@
-{ "Error" "EDBM_QSYN_NOT_RUN" "top " "Run Analysis and Synthesis (quartus_map) with top-level entity name \"top\" before running the current Quartus Prime software" {  } {  } 0 132003 "Run Analysis and Synthesis (quartus_map) with top-level entity name \"%1!s!\" before running the current Quartus Prime software" 0 0 "Design Software" 0 -1 1756290761885 ""}
